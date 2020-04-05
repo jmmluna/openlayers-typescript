@@ -1,7 +1,7 @@
 {
     "name": "openlayers-typescript",
     "version": "1.0.0",
-    "description": "PoC: Configuración Openlayers y Typescript",
+    "description": "PoC: Configuración de OpenLayers y TypeScript",
     "main": "index.ts",
     "scripts": {
         "start": "parcel -p 9000 ./src/index.html --no-cache",
