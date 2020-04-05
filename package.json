@@ -9,10 +9,21 @@
         "tsc-version": "tsc -v",
         "tsc-init": "tsc --init",
         "test": "echo \"Error: no test specified\" && exit 1"
+    }, 
+    "keywords": [
+        "openlayers",
+        "maps",
+        "typescript",
+        "web",
+        "webmapping",
+        "sig",
+        "gis"
+    ],
+    "author": {
+        "name": "José María Martínez Luna",
+        "email": "jmmluna@gmail.com"
     },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
+    "license": "MIT",
     "devDependencies": {
         "parcel-bundler": "^1.12.4",
         "typescript": "^3.8.3"
