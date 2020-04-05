@@ -6,8 +6,8 @@ Ejemplo básico de OpenLayers con TypeScript
 ## Características principales
 
 - OpenLayers 6.3.0. 
-- TypeScript.
-- ParcelJS.
+- TypeScript 3.8.3.
+- ParcelJS 1.12.4.
 
 ## Requerimientos
 Para comenzar a desarrollar sobre el proyecto, necesitará tener Node.js instalado en su entorno. Para **OpenLayers-TypeScript** se han utilizado las siguientes versiones: 
